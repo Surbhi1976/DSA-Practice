@@ -17,4 +17,4 @@ public:
         return max1 + max2 - min1;
     }
 };
-©leetcode
+
